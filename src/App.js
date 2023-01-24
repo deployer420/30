@@ -286,7 +286,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              Dazzle Drips is a mesmerizing digital world that blends art, technology, and storytelling to create an unforgettable experience. Explore the beauty and mystery of this unique digital landscape and discover the secrets hidden within.
+              Created as a pet project by a team of animators at one of "those" film studios (and Alex). We've put together an ensemble of thought provoking animations rendered in 4k, with aim to blend modern art, tech and above all, room for storytelling. Holders given full commercial rights on the collection (including airdrops of future royalties, proportional to number of Dazzle Drips held).
             </s.TextDescription>
             <s.SpacerLarge />
 
