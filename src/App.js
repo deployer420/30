@@ -286,7 +286,7 @@ function App() {
                 color: "var(--accent-text)",
               }}
             >
-              Golden Eden by Zeph is a mesmerizing digital world that blends art, technology, and storytelling to create an unforgettable NFT experience. Explore the beauty and mystery of this unique digital landscape and discover the secrets hidden within.
+              Dazzle Drips is a mesmerizing digital world that blends art, technology, and storytelling to create an unforgettable NFT experience. Explore the beauty and mystery of this unique digital landscape and discover the secrets hidden within.
             </s.TextDescription>
             <s.SpacerLarge />
 
